@@ -3,8 +3,8 @@ servers:
 - name: pruebaids
   informixserver: prueba
   user: informix
-  password: password
-- name: pruebaids2
-  informixserver: prueba2
-  user: informix
-  password: password
+  password: pAmsa2000!
+#- name: pruebaids2
+#  informixserver: prueba2
+#  user: informix
+#  password: password

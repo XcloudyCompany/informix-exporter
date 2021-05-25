@@ -297,6 +297,7 @@ func automaticQuerysDbs(p *ProfileMetrics, database *sql.DB, servidor conf.Insta
 		//p.MetricsDbs["freespace"].WithLabelValues(servidor.Informixserver, "rootdbs", "reads", "automatic").Set(float64(200))
 		p.MetricsDbs["freespace"].WithLabelValues(servidor.Informixserver, fname, "freespace", "automatic").Set(freedbs)
 	}
+	fmt.Println("aqui")
 	rows.Close()
 
 }
