@@ -81,6 +81,6 @@ docker-compose up -d
 
 
 ---
-⌨️ con ❤️ por [anmartsan]ntonio.martinez@xcloudy.es) 😊
+⌨️ con ❤️ por [anmartsan]antonio.martinez@xcloudy.es) 😊
 
 
